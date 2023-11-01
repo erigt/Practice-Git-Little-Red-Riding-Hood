@@ -1,3 +1,29 @@
+h1 {
+    text-align: justify;
+    font-style: oblique;
+    color: rgba(191, 16, 16, 0.862);
+}
+
+body {
+    text-align: justify;
+    margin: 20px;
+    background-color:bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 300px;
+    border-color: red;
+    border-style: double;
+}
+
+
 h2 {
-    color:blueviolet;
+    color: gray;
+    font-style: oblique;
+}
+
+h3 {
+    color:rgba(191, 16, 16, 0.862);
+    
 }
